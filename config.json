@@ -563,44 +563,12 @@
   ],
   "Mockups": [
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
-    },
-    {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
-    },
-    {
       "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
-    },
-    {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
-    },
-    {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
+      "compressed_path": "./photos/Mockups/OscarMoralesPonce-48.min.jpg",
+      "width": 668,
+      "compressed": false,
+      "placeholder_path": "./photos/Mockups/OscarMoralesPonce-48.placeholder.jpg",
+      "path": "./photos/Mockups/OscarMoralesPonce-48.jpg"
     }
   ]
 }
