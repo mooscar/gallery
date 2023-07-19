@@ -26,6 +26,14 @@
     },
     {
       "height": 668,
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-43-1.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-43-1.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-43-1.jpg"
+    },
+    {
+      "height": 668,
       "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-51.min.jpg",
       "width": 1000,
       "compressed": false,
@@ -47,14 +55,6 @@
       "compressed": false,
       "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-53.placeholder.jpg",
       "path": "./photos/Lakes and Forest/OscarMoralesPonce-53.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-54.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-54.placeholder.jpg",
-      "path": "./photos/Lakes and Forest/OscarMoralesPonce-54.jpg"
     },
     {
       "height": 668,
