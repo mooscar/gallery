@@ -1,574 +1,562 @@
 {
-  "Travel Photography": [
+  "Lakes and Forest": [
     {
-      "height": 669,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-1.min.jpg",
+      "height": 668,
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-25.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-1.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-1.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-25.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-25.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-10.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-26.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-10.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-10.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-11.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-11.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-11.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-12.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-12.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-12.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-13.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-13.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-13.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-14.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-14.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-14.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-15.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-15.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-15.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-16.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-16.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-16.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-17.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-17.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-17.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-18.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-18.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-18.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-19.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-19.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-19.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-2.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-2.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-2.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-20.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-20.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-20.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-21.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-21.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-21.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-22.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-22.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-22.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-23.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-23.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-23.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-24.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-24.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-24.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-25.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-25.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-25.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-26.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-26.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-26.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-27.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-27.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-27.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-28.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-28.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-28.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-29.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-29.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-29.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-3.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-3.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-3.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-26.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-26.jpg"
     },
     {
       "height": 1000,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-30.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-30.min.jpg",
       "width": 668,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-30.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-30.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-30.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-30.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-31.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-51.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-31.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-31.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-51.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-51.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-32.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-52.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-32.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-32.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-52.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-52.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-33.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-53.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-33.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-33.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-53.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-53.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-34.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-54.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-34.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-34.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-54.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-54.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-35.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-55.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-35.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-35.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-55.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-55.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-36.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-56.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-36.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-36.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-37.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-37.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-37.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-38.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-38.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-38.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-39.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-39.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-39.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-4.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-4.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-4.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-40.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-40.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-40.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-41.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-41.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-41.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-56.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-56.jpg"
     },
     {
       "height": 1000,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-42.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-57.min.jpg",
       "width": 668,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-42.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-42.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-57.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-57.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-43.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-58.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-43.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-43.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-58.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-58.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-44.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-59.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-44.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-44.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-59.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-59.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-45.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-60.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-45.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-45.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-60.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-60.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-46.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-61.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-46.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-46.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-61.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-61.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-47.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-62.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-47.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-47.jpg"
-    },
-    {
-      "height": 1000,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-48.min.jpg",
-      "width": 668,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-48.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-48.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-62.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-62.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-49.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-63.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-49.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-49.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-63.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-63.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-5.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-64.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-5.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-5.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-64.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-64.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-50.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-65.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-50.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-50.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-51.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-51.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-51.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-52.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-52.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-52.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-53.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-53.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-53.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-54.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-54.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-54.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-55.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-55.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-55.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-56.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-56.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-56.jpg"
-    },
-    {
-      "height": 1000,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-57.min.jpg",
-      "width": 668,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-57.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-57.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-58.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-58.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-58.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-59.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-59.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-59.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-6.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-6.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-6.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-60.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-60.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-60.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-61.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-61.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-61.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-62.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-62.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-62.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-63.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-63.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-63.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-64.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-64.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-64.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-65.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-65.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-65.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-65.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-65.jpg"
     },
     {
       "height": 284,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-66.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-66.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-66.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-66.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-66.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-66.jpg"
     },
     {
       "height": 286,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-67.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-67.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-67.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-67.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-67.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-67.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-68.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-68.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-68.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-68.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-68.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-68.jpg"
     },
     {
       "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-69.min.jpg",
+      "compressed_path": "./photos/Lakes and Forest/OscarMoralesPonce-69.min.jpg",
       "width": 1000,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-69.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-69.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-7.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-7.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-7.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-70.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-70.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-70.jpg"
-    },
-    {
-      "height": 668,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-8.min.jpg",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-8.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-8.jpg"
-    },
-    {
-      "height": 1000,
-      "compressed_path": "./photos/Travel Photography/OscarMoralesPonce-9.min.jpg",
-      "width": 668,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/OscarMoralesPonce-9.placeholder.jpg",
-      "path": "./photos/Travel Photography/OscarMoralesPonce-9.jpg"
+      "placeholder_path": "./photos/Lakes and Forest/OscarMoralesPonce-69.placeholder.jpg",
+      "path": "./photos/Lakes and Forest/OscarMoralesPonce-69.jpg"
     }
   ],
-  "Mockups": [
+  "Flowers": [
+    {
+      "height": 668,
+      "compressed_path": "./photos/Flowers/OscarMoralesPonce-16.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Flowers/OscarMoralesPonce-16.placeholder.jpg",
+      "path": "./photos/Flowers/OscarMoralesPonce-16.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Flowers/OscarMoralesPonce-19.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Flowers/OscarMoralesPonce-19.placeholder.jpg",
+      "path": "./photos/Flowers/OscarMoralesPonce-19.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Flowers/OscarMoralesPonce-20.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Flowers/OscarMoralesPonce-20.placeholder.jpg",
+      "path": "./photos/Flowers/OscarMoralesPonce-20.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Flowers/OscarMoralesPonce-21.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Flowers/OscarMoralesPonce-21.placeholder.jpg",
+      "path": "./photos/Flowers/OscarMoralesPonce-21.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Flowers/OscarMoralesPonce-22.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Flowers/OscarMoralesPonce-22.placeholder.jpg",
+      "path": "./photos/Flowers/OscarMoralesPonce-22.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Flowers/OscarMoralesPonce-23.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Flowers/OscarMoralesPonce-23.placeholder.jpg",
+      "path": "./photos/Flowers/OscarMoralesPonce-23.jpg"
+    }
+  ],
+  "Desert": [
+    {
+      "height": 669,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-1.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-1.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-1.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-10.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-10.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-10.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-11.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-11.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-11.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-12.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-12.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-12.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-13.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-13.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-13.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-14.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-14.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-14.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-15.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-15.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-15.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-2.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-2.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-2.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-3.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-3.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-3.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-4.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-4.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-4.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-40.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-40.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-40.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-41.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-41.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-41.jpg"
+    },
     {
       "height": 1000,
-      "compressed_path": "./photos/Mockups/OscarMoralesPonce-48.min.jpg",
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-42.min.jpg",
       "width": 668,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/OscarMoralesPonce-48.placeholder.jpg",
-      "path": "./photos/Mockups/OscarMoralesPonce-48.jpg"
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-42.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-42.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-43.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-43.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-43.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-44.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-44.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-44.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-5.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-5.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-5.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-6.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-6.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-6.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-7.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-7.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-7.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-70.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-70.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-70.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-8.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-8.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-8.jpg"
+    },
+    {
+      "height": 1000,
+      "compressed_path": "./photos/Desert/OscarMoralesPonce-9.min.jpg",
+      "width": 668,
+      "compressed": false,
+      "placeholder_path": "./photos/Desert/OscarMoralesPonce-9.placeholder.jpg",
+      "path": "./photos/Desert/OscarMoralesPonce-9.jpg"
+    }
+  ],
+  "Ocean": [
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-17.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-17.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-17.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-18.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-18.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-18.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-27.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-27.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-27.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-28.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-28.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-28.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-29.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-29.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-29.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-31.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-31.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-31.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-32.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-32.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-32.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-33.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-33.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-33.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-34.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-34.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-34.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-35.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-35.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-35.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-36.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-36.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-36.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-37.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-37.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-37.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-38.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-38.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-38.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-39.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-39.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-39.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-45.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-45.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-45.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-46.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-46.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-46.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-47.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-47.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-47.jpg"
+    },
+    {
+      "height": 1000,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-48.min.jpg",
+      "width": 668,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-48.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-48.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-49.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-49.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-49.jpg"
+    },
+    {
+      "height": 668,
+      "compressed_path": "./photos/Ocean/OscarMoralesPonce-50.min.jpg",
+      "width": 1000,
+      "compressed": false,
+      "placeholder_path": "./photos/Ocean/OscarMoralesPonce-50.placeholder.jpg",
+      "path": "./photos/Ocean/OscarMoralesPonce-50.jpg"
     }
   ]
 }
