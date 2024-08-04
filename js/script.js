@@ -25,8 +25,8 @@ window.onload = function() {
   oReq.open("GET", "config.json");
   oReq.send();
 
-  let igElem = document.getElementById('instagram');
+  /*let igElem = document.getElementById('instagram');
   if (igElem.href === 'https://www.instagram.com/') {
     document.querySelector('div.footer').remove();
-  }
+  }*/
 };
